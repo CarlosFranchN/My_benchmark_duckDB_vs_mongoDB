@@ -1,0 +1,23 @@
+# Ambiente Virtual
+venv/
+.venv/
+
+# Arquivo de variáveis de ambiente com senhas
+.env
+
+# Arquivos de Banco de Dados
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos do VSCode
+.vscode/
+
+# Outros
+.DS_Store
