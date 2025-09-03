@@ -24,5 +24,7 @@ def insercao_duckdb(df = pd.DataFrame):
 
 
 # df = conversao_to_df(lista_registros)
-df = pd.read_csv("./data.csv", sep=';')
+df = pd.read_csv("./data.csv", sep=';',index_col=0)
+
+print(df.head())
 insercao_duckdb(df)

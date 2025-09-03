@@ -49,7 +49,7 @@ def popular_produtos_from_csv(collection, csv_path: str):
 
         # 2. Lê o CSV em pedaços (chunks)
         print("Iniciando a leitura e inserção em lotes...")
-        chunk_iterator = pd.read_csv(csv_path, chunksize=1000) # Lotes de 1000 linhas
+        chunk_iterator = pd.read_csv(csv_path, chunksize=1000, sep=';',index_col=0) # Lotes de 1000 linhas
         total_linhas_importadas = 0
 
         for i, chunk_df in enumerate(chunk_iterator):
