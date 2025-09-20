@@ -1,6 +1,8 @@
 import time
+import functools
 
 def medir_tempo(func):
+    @functools.wraps(func)
     def wrapper(*args, **kwargs):
         inicio = time.time()
         resultado = func(*args,**kwargs)

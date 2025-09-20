@@ -1,0 +1,1001 @@
+id_produto;nome_produto;categoria;preco
+0;Duarte Earum;Livros;172.99
+1;Sá - ME Sint;Esportes;204.66
+2;Rocha Hic;Brinquedos;1767.46
+3;Gomes - EI Et;Casa;1030.95
+4;Fernandes da Luz Ltda. Nam;Livros;388.99
+5;Albuquerque - ME Fuga;Casa;1138.96
+6;Lopes e Filhos Corporis;Casa;853.14
+7;Campos Dolorem;Livros;2270.05
+8;Fernandes - ME Reiciendis;Roupas;1495.27
+9;Siqueira Jesus Ltda. In;Livros;1559.21
+10;Rios Silva S.A. Vero;Esportes;2069.35
+11;Lopes - EI Dolorem;Livros;1785.06
+12;Vieira Ullam;Livros;1131.82
+13;Guerra Nisi;Casa;2217.73
+14;Duarte S.A. Reiciendis;Livros;1890.99
+15;Nascimento Gomes S/A Perspiciatis;Brinquedos;838.54
+16;Jesus S.A. Aut;Eletrônicos;2071.58
+17;Freitas Ltda. Voluptatum;Brinquedos;509.82
+18;Vieira Marques S.A. Amet;Livros;818.18
+19;Mendes Duarte - EI Reiciendis;Casa;864.85
+20;Cardoso Molestiae;Roupas;1424.0
+21;Barros S.A. Consectetur;Esportes;1727.48
+22;Souza Novaes Ltda. Voluptates;Livros;1499.69
+23;Jesus Deleniti;Casa;2054.58
+24;Abreu - EI Eveniet;Roupas;1745.29
+25;Moraes Ex;Casa;1522.12
+26;das Neves Ltda. Iusto;Brinquedos;537.0
+27;da Luz S/A Quisquam;Roupas;427.13
+28;Brito S.A. Ex;Eletrônicos;938.95
+29;Rodrigues Ad;Casa;1550.75
+30;Rodrigues Eaque;Roupas;2031.33
+31;da Cruz Molestiae;Casa;213.59
+32;Souza - EI Quod;Esportes;898.25
+33;Vargas Quia;Brinquedos;1927.13
+34;Moura Odio;Roupas;1114.58
+35;Pires e Filhos Odit;Esportes;1450.96
+36;Brito da Cunha - EI Mollitia;Casa;172.92
+37;Moraes Similique;Esportes;306.56
+38;Ferreira S.A. Occaecati;Roupas;1377.72
+39;da Conceição Ltda. Id;Brinquedos;1270.18
+40;da Luz Ltda. Sequi;Casa;1392.27
+41;Abreu Novais - EI Consequatur;Esportes;1547.88
+42;Freitas Voluptate;Esportes;1594.01
+43;Ferreira Santos Ltda. Maiores;Brinquedos;276.82
+44;Nascimento Magni;Eletrônicos;1765.51
+45;Guerra S/A Aspernatur;Brinquedos;1959.29
+46;Nogueira Labore;Eletrônicos;1899.29
+47;Machado - ME Vero;Eletrônicos;2027.05
+48;Camargo Ullam;Livros;289.85
+49;Brito Asperiores;Casa;2216.35
+50;Cardoso Possimus;Casa;1750.13
+51;da Rocha Iure;Livros;2163.77
+52;Albuquerque Ltda. Ex;Brinquedos;1154.24
+53;Pinto Neque;Roupas;1212.84
+54;Cavalcanti Unde;Brinquedos;1121.73
+55;Costela Ltda. Repellat;Roupas;266.64
+56;Câmara Abreu e Filhos Voluptatum;Casa;2206.16
+57;Rocha Vitae;Esportes;1007.46
+58;Ferreira Provident;Casa;178.76
+59;Machado da Conceição S/A Veritatis;Esportes;1947.83
+60;da Rosa Costela - EI Nam;Eletrônicos;1558.61
+61;Ramos Quo;Roupas;1074.42
+62;Santos Nesciunt;Brinquedos;1186.1
+63;da Cunha Officiis;Brinquedos;223.0
+64;Caldeira Voluptas;Casa;1919.28
+65;Brito Tempora;Eletrônicos;221.9
+66;Vargas Et;Esportes;1008.05
+67;Ribeiro At;Livros;296.1
+68;da Mata Esse;Eletrônicos;1789.2
+69;Santos Nisi;Casa;460.26
+70;Moraes Sales S.A. Doloremque;Eletrônicos;1060.94
+71;Andrade Fernandes - EI Eos;Esportes;2029.04
+72;Lima Porto e Filhos Eveniet;Livros;1356.22
+73;Moraes Exercitationem;Casa;1603.99
+74;Pacheco Duarte Ltda. Assumenda;Roupas;797.08
+75;Monteiro Nogueira S/A Modi;Eletrônicos;2491.5
+76;Casa Grande e Filhos Occaecati;Esportes;1074.56
+77;Barros Optio;Livros;1976.23
+78;da Mota e Filhos Vero;Brinquedos;1553.1
+79;Campos Cumque;Casa;1745.94
+80;Peixoto Voluptatibus;Roupas;1014.3
+81;Marques Azevedo - ME Eos;Esportes;1274.14
+82;Costela Melo - ME Veritatis;Esportes;1738.24
+83;da Mota S/A Saepe;Brinquedos;1814.16
+84;Jesus Quam;Eletrônicos;1252.09
+85;Moraes Correia e Filhos Praesentium;Roupas;623.27
+86;Silveira Qui;Roupas;1247.64
+87;da Conceição Nisi;Brinquedos;2203.61
+88;Campos In;Eletrônicos;311.94
+89;Correia Quibusdam;Livros;1449.8
+90;Vieira Brito S/A Earum;Casa;864.6
+91;Costa Ltda. Ex;Roupas;125.22
+92;Casa Grande Alias;Esportes;430.73
+93;Cardoso Delectus;Esportes;2013.31
+94;Borges Minus;Roupas;1588.25
+95;Pinto - EI Id;Brinquedos;1722.37
+96;Monteiro Iure;Esportes;1068.98
+97;Pires Neque;Eletrônicos;1304.0
+98;da Costa S/A Et;Livros;1351.07
+99;Vieira S.A. Possimus;Livros;280.72
+100;Sampaio Nemo;Eletrônicos;126.12
+101;Novais Siqueira - ME Earum;Brinquedos;1639.21
+102;Campos - ME Dolores;Esportes;501.15
+103;Marques Doloremque;Esportes;987.49
+104;Souza Vasconcelos Ltda. Voluptatibus;Casa;2045.89
+105;da Rocha Pimenta - ME Nesciunt;Casa;1192.09
+106;Rezende Ipsa;Esportes;1133.19
+107;Alves Rios - ME Fuga;Casa;2166.74
+108;Abreu Vero;Roupas;749.92
+109;Rocha Marques - EI Ea;Livros;1467.87
+110;Silva Ea;Eletrônicos;2056.95
+111;da Cunha Eveniet;Brinquedos;2290.22
+112;Costela Eos;Livros;1425.98
+113;da Mata - ME Possimus;Livros;2463.74
+114;Barbosa - EI Quasi;Casa;86.51
+115;Nascimento Magni;Roupas;609.03
+116;Pinto Cirino e Filhos Error;Casa;2219.83
+117;Barros S/A Amet;Casa;404.99
+118;da Luz - EI Cum;Esportes;120.58
+119;Gomes Esse;Esportes;2305.81
+120;Andrade Sales - EI Eveniet;Esportes;1956.65
+121;Nunes - ME Veniam;Esportes;137.11
+122;da Rocha Error;Brinquedos;2037.72
+123;Camargo Pereira Ltda. Vero;Esportes;2399.18
+124;Rocha Pereira - EI Corrupti;Livros;1497.55
+125;da Conceição Earum;Eletrônicos;2468.93
+126;Costa Cupiditate;Eletrônicos;1918.47
+127;Casa Grande Vargas e Filhos Quidem;Brinquedos;1528.09
+128;Montenegro Pimenta - EI Ipsa;Roupas;1128.42
+129;Azevedo Cavalcanti Ltda. Fuga;Brinquedos;334.64
+130;Aragão Aperiam;Roupas;2313.64
+131;Ribeiro Peixoto S/A Eos;Roupas;763.15
+132;Rezende Cavalcante e Filhos Sit;Roupas;777.92
+133;Correia S/A Vel;Livros;1317.46
+134;Rocha S/A Ea;Eletrônicos;382.12
+135;Moura Sequi;Eletrônicos;602.06
+136;Freitas Ltda. Deserunt;Eletrônicos;59.4
+137;da Rosa Ducimus;Eletrônicos;1735.3
+138;Cavalcanti Tenetur;Esportes;462.34
+139;Garcia S.A. Sit;Livros;2123.81
+140;Abreu Costa e Filhos Odit;Roupas;1825.0
+141;Ribeiro Nulla;Casa;664.66
+142;Cunha e Filhos Quam;Eletrônicos;898.51
+143;Mendonça Animi;Roupas;2073.69
+144;das Neves e Filhos Error;Brinquedos;548.73
+145;Peixoto Abreu S/A Laudantium;Casa;44.73
+146;Silveira Incidunt;Eletrônicos;342.3
+147;Duarte Quasi;Livros;2027.86
+148;Moura Dignissimos;Casa;1184.14
+149;Dias Ltda. Laudantium;Roupas;483.87
+150;da Costa Mendonça - ME Ad;Eletrônicos;2441.66
+151;Andrade Mendes S.A. Vero;Esportes;1064.26
+152;da Conceição Vel;Casa;1966.68
+153;Oliveira Labore;Roupas;493.86
+154;Casa Grande Necessitatibus;Roupas;1279.33
+155;Lima Iure;Livros;2476.72
+156;Castro Sed;Livros;2096.89
+157;Silva da Paz S.A. In;Livros;1536.55
+158;Aparecida - ME Repellat;Livros;18.52
+159;Albuquerque At;Eletrônicos;1762.71
+160;das Neves Ltda. Eveniet;Eletrônicos;1921.03
+161;Moraes S.A. Laudantium;Esportes;170.32
+162;Pinto Nulla;Livros;1127.22
+163;Santos In;Esportes;2460.4
+164;Aparecida e Filhos Omnis;Brinquedos;2107.47
+165;Fogaça Ab;Eletrônicos;39.64
+166;Pacheco Est;Roupas;2415.37
+167;Silva Delectus;Eletrônicos;1057.07
+168;Nunes Quibusdam;Livros;1068.76
+169;Monteiro e Filhos Nam;Casa;2389.25
+170;Pacheco Perspiciatis;Roupas;1911.85
+171;das Neves Velit;Brinquedos;1799.36
+172;Freitas Mollitia;Roupas;618.98
+173;Cavalcanti Nascimento S.A. Voluptatibus;Esportes;1816.36
+174;Lopes Pimenta Ltda. Odio;Eletrônicos;888.94
+175;Almeida Quidem;Roupas;2379.97
+176;Ribeiro Silveira - EI Ratione;Brinquedos;503.46
+177;Moreira Farias - ME Dolorum;Eletrônicos;1547.69
+178;Barbosa Pastor - ME Architecto;Livros;269.69
+179;Sousa S/A Unde;Brinquedos;2481.44
+180;Barbosa Odio;Eletrônicos;300.0
+181;Ribeiro Nesciunt;Brinquedos;1994.53
+182;Sales Borges - ME Aut;Livros;1940.29
+183;Teixeira S.A. Saepe;Livros;1462.21
+184;Lima Ltda. Repudiandae;Brinquedos;79.03
+185;Vasconcelos Est;Brinquedos;292.08
+186;Teixeira Peixoto - EI Voluptatem;Roupas;136.22
+187;Cunha - ME Tenetur;Roupas;1317.7
+188;Almeida S.A. Eaque;Brinquedos;270.66
+189;Sá Nisi;Eletrônicos;2145.94
+190;da Conceição Quos;Roupas;872.68
+191;Montenegro Cirino - EI Adipisci;Casa;1789.83
+192;Peixoto Brito - ME Pariatur;Eletrônicos;421.37
+193;Pacheco da Luz - EI Porro;Esportes;1846.92
+194;Viana Nogueira S/A Natus;Brinquedos;551.8
+195;Porto Iste;Roupas;277.8
+196;Martins S/A Non;Roupas;1939.61
+197;Borges S/A Aliquid;Eletrônicos;1962.07
+198;Ribeiro Magnam;Brinquedos;1927.42
+199;Araújo Ea;Livros;1864.63
+200;Azevedo Officia;Casa;1439.22
+201;Martins Oliveira S.A. Mollitia;Livros;24.93
+202;Ferreira e Filhos Accusamus;Roupas;2129.74
+203;Peixoto - ME Sunt;Brinquedos;1092.29
+204;Farias e Filhos Debitis;Esportes;1506.18
+205;Cavalcante S.A. Aperiam;Esportes;545.92
+206;da Paz Impedit;Livros;1550.19
+207;das Neves Dignissimos;Brinquedos;1583.71
+208;Pimenta Fuga;Esportes;1624.3
+209;da Paz Est;Roupas;1527.05
+210;Rodrigues Santos - ME Minus;Livros;1597.23
+211;Almeida Ltda. Exercitationem;Roupas;1210.31
+212;Sousa Cupiditate;Roupas;260.31
+213;Andrade Ipsa;Brinquedos;492.17
+214;Martins Excepturi;Eletrônicos;857.03
+215;Novaes Correia - EI Libero;Esportes;1432.33
+216;Martins Aparecida S.A. Voluptate;Casa;1633.2
+217;Souza Macedo Ltda. Pariatur;Esportes;1957.51
+218;Nascimento Dolores;Brinquedos;354.37
+219;Costela Moura - ME Ullam;Esportes;1102.61
+220;Correia - EI Quaerat;Eletrônicos;2119.12
+221;Pereira Quo;Casa;245.12
+222;Fonseca Sint;Brinquedos;236.65
+223;Brito Consequuntur;Roupas;1170.2
+224;Vargas - EI Ipsa;Esportes;646.3
+225;Aragão Quisquam;Roupas;1501.34
+226;da Mata S/A Placeat;Casa;2493.46
+227;Rezende e Filhos Voluptatibus;Livros;353.83
+228;Lima Cunha - ME Doloribus;Brinquedos;1782.77
+229;Fogaça Porro;Eletrônicos;1883.78
+230;Pires Aliquid;Esportes;1513.84
+231;Cassiano Porro;Brinquedos;2171.6
+232;Oliveira da Luz e Filhos Excepturi;Brinquedos;1002.36
+233;Porto Nogueira - ME Aliquam;Livros;2116.01
+234;Sampaio S/A Provident;Esportes;603.08
+235;Silveira S.A. Dicta;Livros;1726.45
+236;Araújo Pimenta - EI Eos;Brinquedos;1415.42
+237;Montenegro Et;Eletrônicos;669.18
+238;Ramos Excepturi;Casa;2323.72
+239;Sales da Rocha e Filhos Dolorem;Livros;2042.75
+240;Novais Gonçalves S.A. Architecto;Livros;1956.72
+241;Mendonça Ltda. Molestias;Eletrônicos;344.72
+242;Vargas Labore;Casa;2438.16
+243;Martins Dicta;Roupas;1613.44
+244;Sousa Nostrum;Esportes;191.58
+245;Abreu Facilis;Brinquedos;2279.76
+246;Novaes - EI Autem;Casa;874.59
+247;Ribeiro Lima S/A Ipsam;Livros;321.56
+248;Silveira Possimus;Brinquedos;2259.13
+249;da Rosa Quaerat;Esportes;1069.74
+250;Dias A;Esportes;2046.38
+251;Vargas Vitae;Livros;2167.01
+252;Novais Officiis;Roupas;755.11
+253;Cirino Similique;Roupas;1381.18
+254;Albuquerque Odit;Livros;2218.78
+255;Jesus e Filhos Explicabo;Esportes;2411.55
+256;Lima e Filhos Quibusdam;Livros;178.72
+257;Rezende Nascimento - EI Beatae;Brinquedos;359.19
+258;Andrade - ME Voluptate;Esportes;900.49
+259;Moreira da Luz - ME At;Livros;800.2
+260;da Paz da Luz Ltda. Suscipit;Brinquedos;1901.42
+261;Caldeira Voluptate;Esportes;1619.41
+262;Barbosa Ipsam;Eletrônicos;1627.0
+263;Porto Quae;Roupas;2353.02
+264;Jesus At;Esportes;64.22
+265;Macedo Sampaio S/A Quisquam;Brinquedos;868.02
+266;Lima Sit;Eletrônicos;1383.19
+267;Rodrigues Eum;Livros;2221.41
+268;Borges Maxime;Brinquedos;321.96
+269;Rodrigues Ltda. Perferendis;Brinquedos;2340.44
+270;da Conceição Illum;Livros;2457.84
+271;Melo S.A. Fugiat;Casa;380.16
+272;da Paz S.A. Accusantium;Eletrônicos;558.4
+273;Casa Grande da Luz - ME Consectetur;Eletrônicos;1948.78
+274;Caldeira Itaque;Roupas;1010.71
+275;Duarte e Filhos Minus;Brinquedos;2225.43
+276;Rodrigues Mollitia;Livros;1460.75
+277;Câmara Molestiae;Esportes;1351.6
+278;Duarte das Neves e Filhos Quod;Casa;2296.17
+279;da Cunha Duarte Ltda. Ad;Livros;1245.71
+280;Melo S.A. Dolorum;Brinquedos;1954.48
+281;Lopes e Filhos Aut;Eletrônicos;2221.16
+282;Garcia Harum;Brinquedos;1844.46
+283;Moraes Qui;Esportes;2215.13
+284;Abreu Rezende - EI Itaque;Livros;230.86
+285;Casa Grande - ME Tempora;Brinquedos;1787.19
+286;Cardoso Correia - EI Aut;Esportes;2419.51
+287;Pacheco Sales - ME Dolorum;Esportes;1735.13
+288;Barbosa S.A. Facilis;Roupas;2308.84
+289;Cassiano Error;Brinquedos;887.46
+290;Jesus Castro e Filhos Sapiente;Esportes;1893.14
+291;Abreu Deserunt;Livros;984.75
+292;Ferreira Tempore;Eletrônicos;2070.86
+293;Viana Nulla;Esportes;2332.81
+294;Souza Perspiciatis;Brinquedos;2416.46
+295;Araújo Amet;Esportes;1316.21
+296;Rocha Tempore;Eletrônicos;1317.35
+297;Campos S/A Sapiente;Brinquedos;1007.09
+298;Cavalcanti - ME Magnam;Livros;1111.53
+299;da Cruz Moura S/A Laudantium;Roupas;1927.13
+300;Moura e Filhos Blanditiis;Casa;562.54
+301;Cavalcanti Quibusdam;Livros;2307.83
+302;Moura Cumque;Brinquedos;575.43
+303;Fogaça Rem;Roupas;1832.06
+304;Abreu da Mata S/A A;Brinquedos;100.99
+305;Pimenta Cassiano S.A. Sint;Brinquedos;2414.8
+306;Costa Dolor;Esportes;2273.19
+307;Castro Dicta;Eletrônicos;1760.19
+308;da Luz Lima - EI Eum;Casa;1991.1
+309;Cassiano Campos Ltda. Quis;Eletrônicos;1058.89
+310;Vasconcelos Ltda. Fuga;Roupas;1355.38
+311;Ramos Necessitatibus;Esportes;1240.4
+312;Pires Odio;Eletrônicos;241.82
+313;Mendes Ipsam;Eletrônicos;509.14
+314;Pacheco S.A. Asperiores;Casa;1313.27
+315;Porto Eaque;Esportes;868.16
+316;Lima Ltda. Maxime;Roupas;452.79
+317;Gonçalves Corporis;Brinquedos;35.73
+318;Albuquerque Cassiano - EI Culpa;Eletrônicos;1027.17
+319;Rezende S/A Assumenda;Brinquedos;546.38
+320;Moreira Laborum;Livros;2415.11
+321;Porto Monteiro Ltda. Suscipit;Eletrônicos;2095.61
+322;Montenegro Debitis;Eletrônicos;840.28
+323;Pereira e Filhos Fugiat;Eletrônicos;878.79
+324;Alves Ltda. Quos;Brinquedos;1831.07
+325;Cassiano Vel;Casa;2112.14
+326;Araújo Deserunt;Casa;2154.85
+327;das Neves Ipsam;Roupas;411.17
+328;Martins Unde;Roupas;73.87
+329;Borges e Filhos Esse;Livros;366.35
+330;da Costa Doloribus;Eletrônicos;2263.4
+331;Carvalho Voluptate;Eletrônicos;2223.1
+332;da Costa Animi;Esportes;1070.68
+333;Rios - ME Placeat;Eletrônicos;1474.6
+334;Novaes Ltda. Magnam;Livros;2407.79
+335;Sá Barbosa Ltda. Sapiente;Eletrônicos;669.44
+336;Vieira - ME Voluptates;Esportes;2229.29
+337;da Rocha Teixeira S/A Dolores;Casa;1203.71
+338;Monteiro - ME Itaque;Casa;797.5
+339;Marques Aparecida S.A. Ipsam;Brinquedos;1616.39
+340;Machado Nihil;Brinquedos;2213.37
+341;Freitas S.A. Delectus;Roupas;811.7
+342;Ribeiro Viana - EI Quae;Roupas;1178.09
+343;Souza Magni;Eletrônicos;2170.96
+344;Rezende Illo;Brinquedos;2224.65
+345;Cardoso Necessitatibus;Brinquedos;109.81
+346;Vargas Commodi;Livros;1216.57
+347;Monteiro Error;Esportes;370.85
+348;Castro Dignissimos;Casa;2452.94
+349;Barbosa Abreu Ltda. Nihil;Casa;263.1
+350;Fonseca Cardoso S.A. Quaerat;Esportes;255.97
+351;Carvalho Accusantium;Livros;1626.25
+352;Borges Almeida S/A Magni;Roupas;937.01
+353;Oliveira Nam;Roupas;2319.03
+354;da Rosa Nunes - EI Magnam;Roupas;1474.98
+355;das Neves Laudantium;Eletrônicos;2034.65
+356;Pires Rocha Ltda. Asperiores;Brinquedos;599.52
+357;Vasconcelos Sint;Eletrônicos;893.71
+358;Mendes Consectetur;Livros;1224.5
+359;Duarte Brito e Filhos Velit;Esportes;739.11
+360;Guerra Sampaio S/A Nesciunt;Roupas;260.88
+361;Campos S.A. Pariatur;Livros;849.15
+362;Casa Grande Gonçalves Ltda. Minima;Eletrônicos;426.75
+363;Farias Rios - EI Suscipit;Roupas;2296.39
+364;Vieira Eius;Roupas;66.89
+365;Vasconcelos e Filhos Consequatur;Casa;2364.48
+366;Costa Aliquid;Casa;2172.45
+367;Ramos Porro;Casa;654.81
+368;da Conceição Maxime;Roupas;1552.77
+369;Gonçalves Temporibus;Eletrônicos;764.63
+370;Monteiro S.A. Consequuntur;Casa;308.62
+371;Rodrigues Repudiandae;Brinquedos;1375.69
+372;Aparecida - ME Est;Roupas;2492.05
+373;Rios Est;Roupas;279.3
+374;Sales Borges e Filhos Fugit;Roupas;1569.9
+375;Ferreira Ramos e Filhos Officiis;Roupas;1606.04
+376;Rocha Ltda. Asperiores;Brinquedos;490.39
+377;Novais Commodi;Casa;390.71
+378;Casa Grande Assumenda;Livros;652.84
+379;Moreira S.A. Cupiditate;Eletrônicos;2336.62
+380;Rodrigues Ferreira e Filhos Sapiente;Livros;2119.13
+381;Nunes Necessitatibus;Brinquedos;631.4
+382;Ramos e Filhos Dolor;Esportes;1916.39
+383;Barros S.A. Soluta;Brinquedos;974.41
+384;Mendonça Quam;Casa;92.94
+385;Camargo Aut;Esportes;2116.83
+386;Novais Est;Casa;458.63
+387;Ferreira - ME Natus;Casa;2136.74
+388;da Cunha Accusantium;Livros;1936.25
+389;Borges Sint;Esportes;1457.93
+390;Câmara Viana Ltda. Placeat;Esportes;314.18
+391;Fogaça Câmara S/A Odit;Casa;299.65
+392;da Mota e Filhos Dolorem;Esportes;1482.48
+393;Monteiro Temporibus;Livros;1171.15
+394;Castro S.A. Minima;Livros;1022.96
+395;Almeida da Conceição - EI Iusto;Brinquedos;1032.35
+396;Dias Dolore;Esportes;2466.85
+397;Pacheco Guerra S.A. Blanditiis;Roupas;1559.6
+398;da Mata - EI Laudantium;Livros;570.73
+399;Santos Veniam;Brinquedos;1212.39
+400;Camargo da Mata S/A Consequatur;Casa;208.97
+401;Porto S.A. Omnis;Brinquedos;621.67
+402;Guerra Ltda. Voluptate;Roupas;2412.16
+403;Gonçalves S/A Molestias;Esportes;1121.39
+404;Rodrigues Maxime;Roupas;1908.91
+405;Lima S.A. Natus;Casa;828.81
+406;Moraes Alves - EI Iste;Livros;1025.79
+407;Souza Doloremque;Roupas;2198.95
+408;Barros S.A. Ipsa;Esportes;2292.01
+409;Machado Ltda. Ad;Eletrônicos;1584.1
+410;Albuquerque Brito S/A Quo;Esportes;2077.29
+411;Porto Numquam;Brinquedos;1257.66
+412;Silveira - ME Optio;Roupas;2237.93
+413;Nascimento Harum;Eletrônicos;1462.21
+414;Siqueira S.A. Non;Casa;1579.35
+415;Macedo Ex;Livros;2206.75
+416;Costa Blanditiis;Casa;1491.11
+417;da Costa Assumenda;Eletrônicos;772.22
+418;Machado S.A. Minima;Casa;1879.53
+419;Araújo Câmara - EI Veniam;Roupas;503.68
+420;Lima Dolor;Casa;884.47
+421;Pinto Alias;Livros;1932.43
+422;Araújo S/A Error;Eletrônicos;541.66
+423;Pacheco Id;Casa;1955.02
+424;Martins Sampaio - ME Quas;Roupas;1311.28
+425;Almeida Ltda. Hic;Livros;1304.56
+426;Cavalcante Ratione;Esportes;1836.76
+427;Barbosa da Mata e Filhos Repellat;Livros;1095.89
+428;Araújo da Mata - EI Beatae;Casa;2313.1
+429;Martins Mendes e Filhos Accusamus;Livros;179.64
+430;Rodrigues Officia;Casa;1365.81
+431;Vargas Officia;Esportes;1804.51
+432;Aparecida Monteiro S.A. Culpa;Casa;1310.84
+433;da Cunha Duarte S/A Enim;Casa;1089.21
+434;Ferreira - EI Nesciunt;Eletrônicos;577.99
+435;Castro Dicta;Brinquedos;195.76
+436;Cunha Pacheco Ltda. Consequatur;Eletrônicos;254.43
+437;Almeida Nulla;Roupas;448.0
+438;Barbosa da Conceição Ltda. Vitae;Casa;1300.0
+439;Azevedo S/A Est;Roupas;1885.33
+440;Jesus Asperiores;Brinquedos;1697.26
+441;Castro Cum;Brinquedos;1948.44
+442;Gomes Novaes - EI Magnam;Livros;504.53
+443;Freitas S.A. Non;Esportes;1706.63
+444;da Cruz Sit;Brinquedos;920.0
+445;Rezende S/A Unde;Brinquedos;627.22
+446;Cavalcante Voluptatum;Casa;222.1
+447;Albuquerque Voluptas;Brinquedos;2046.91
+448;Sá Cavalcante e Filhos Rem;Esportes;2456.68
+449;Nascimento Unde;Eletrônicos;1755.48
+450;Silva Vasconcelos S.A. Explicabo;Esportes;1777.07
+451;Pimenta Delectus;Brinquedos;233.28
+452;Abreu Ltda. Enim;Roupas;1148.93
+453;Pereira Saepe;Eletrônicos;1099.21
+454;Santos Iure;Brinquedos;2042.26
+455;Araújo Iusto;Casa;2404.94
+456;Ribeiro da Mata e Filhos Cupiditate;Eletrônicos;2499.21
+457;Rodrigues - ME Doloremque;Roupas;1789.3
+458;da Paz Omnis;Brinquedos;1865.9
+459;Pereira Quaerat;Livros;2112.82
+460;Barros Vasconcelos - ME Odit;Esportes;406.8
+461;Dias Machado e Filhos Officia;Esportes;2299.03
+462;Casa Grande Tempore;Casa;1886.87
+463;Siqueira Reprehenderit;Eletrônicos;1241.59
+464;Melo Doloribus;Eletrônicos;2254.18
+465;Pastor Occaecati;Casa;443.67
+466;Costa S/A Excepturi;Esportes;1130.77
+467;Jesus Laudantium;Roupas;2116.1
+468;Borges das Neves - EI Aut;Brinquedos;773.77
+469;Fernandes Pariatur;Livros;661.15
+470;da Paz Nesciunt;Casa;1735.96
+471;Casa Grande - EI Assumenda;Esportes;731.18
+472;Siqueira Porro;Casa;1467.15
+473;da Cruz Pacheco S/A Totam;Brinquedos;751.37
+474;Mendes Quis;Eletrônicos;142.26
+475;Pires Freitas e Filhos Quidem;Eletrônicos;2418.23
+476;Costa - EI Voluptatem;Livros;1357.83
+477;Dias Novaes Ltda. Assumenda;Eletrônicos;2123.8
+478;Sousa - EI Voluptatibus;Brinquedos;973.05
+479;Rocha Cirino S/A Animi;Eletrônicos;1713.11
+480;Melo - ME Qui;Esportes;913.06
+481;Costela Vargas e Filhos Ipsam;Brinquedos;2238.55
+482;Câmara da Rocha - EI Quos;Roupas;893.97
+483;da Cunha - EI Laborum;Brinquedos;1766.27
+484;Novais Ipsum;Roupas;1664.33
+485;Pacheco S.A. Modi;Roupas;643.39
+486;Alves S/A Mollitia;Roupas;1750.83
+487;Cassiano Tenetur;Roupas;1784.9
+488;Borges Nunes - EI Aspernatur;Brinquedos;1078.87
+489;Alves Sed;Eletrônicos;2299.86
+490;Guerra - ME Provident;Casa;1116.59
+491;Macedo Aperiam;Esportes;239.54
+492;Fogaça Moraes e Filhos Explicabo;Brinquedos;903.03
+493;Pires S/A Illum;Livros;224.95
+494;da Rosa Eveniet;Casa;1356.55
+495;Peixoto Costa S/A Hic;Livros;1590.6
+496;da Cruz Teixeira e Filhos Impedit;Livros;660.89
+497;Pacheco Laboriosam;Livros;2099.36
+498;Montenegro Aliquam;Casa;454.04
+499;Albuquerque Borges Ltda. Ipsam;Roupas;1276.56
+500;da Rocha S.A. Reprehenderit;Esportes;1225.84
+501;Correia Fuga;Esportes;1282.0
+502;Vieira e Filhos Voluptate;Esportes;1355.2
+503;Camargo Eligendi;Brinquedos;1756.26
+504;Garcia Gonçalves - EI Quos;Eletrônicos;2292.9
+505;Campos Mollitia;Esportes;428.36
+506;Casa Grande Ea;Casa;2175.62
+507;Mendonça - EI Officia;Brinquedos;2428.55
+508;Fonseca Numquam;Casa;1156.26
+509;Rocha Illo;Casa;928.05
+510;Carvalho - ME Iste;Eletrônicos;2260.65
+511;Fernandes Pariatur;Eletrônicos;1637.82
+512;Sampaio Alves S/A Facere;Brinquedos;553.88
+513;Siqueira Aperiam;Livros;59.83
+514;Fernandes Enim;Esportes;2196.16
+515;Fonseca Quidem;Esportes;1583.06
+516;Rodrigues Ratione;Livros;777.96
+517;Dias S/A Natus;Livros;1617.12
+518;Albuquerque Odit;Eletrônicos;1442.62
+519;Mendes Ducimus;Brinquedos;1984.47
+520;Barbosa Ribeiro Ltda. Harum;Eletrônicos;2475.51
+521;Duarte Recusandae;Eletrônicos;1310.71
+522;Cavalcanti Fernandes - ME Aspernatur;Roupas;2427.15
+523;Novais Rocha S/A Nisi;Eletrônicos;397.53
+524;Sampaio - ME Perferendis;Casa;2197.76
+525;Vargas Vasconcelos e Filhos Voluptas;Eletrônicos;1519.8
+526;Pacheco Esse;Esportes;936.77
+527;Novais Maiores;Livros;2264.79
+528;Alves Pacheco S/A Vel;Roupas;2095.98
+529;Moraes Ullam;Livros;782.73
+530;da Rocha Aliquid;Roupas;1400.31
+531;Mendes e Filhos Vel;Livros;1092.97
+532;Viana Culpa;Brinquedos;1600.01
+533;Vargas Excepturi;Roupas;1293.99
+534;Azevedo Expedita;Roupas;529.26
+535;Campos Dolorum;Roupas;2005.53
+536;da Cruz Tempore;Livros;1567.67
+537;Novaes In;Esportes;862.41
+538;Abreu S/A Reiciendis;Eletrônicos;1842.94
+539;Oliveira Consectetur;Casa;302.04
+540;Lopes Vieira S.A. Recusandae;Esportes;2195.97
+541;Jesus Corrupti;Eletrônicos;1617.27
+542;Garcia Magni;Roupas;1117.23
+543;Cavalcanti Ltda. Enim;Brinquedos;2024.64
+544;Cunha Facere;Casa;1064.04
+545;Machado Ex;Esportes;1764.26
+546;Fogaça Borges - EI Corporis;Eletrônicos;605.14
+547;Borges Non;Livros;546.65
+548;Pastor Fogaça - ME Iste;Casa;737.71
+549;Pimenta Macedo Ltda. Sit;Roupas;755.3
+550;Santos Natus;Brinquedos;1741.89
+551;Costa Aperiam;Casa;493.59
+552;Alves Natus;Brinquedos;920.74
+553;Siqueira Caldeira - ME Voluptas;Eletrônicos;2443.27
+554;Pimenta - ME Labore;Esportes;179.33
+555;Sá Molestiae;Brinquedos;2471.86
+556;Novais Cupiditate;Esportes;237.1
+557;Alves Voluptatum;Esportes;569.37
+558;Cavalcanti Pereira - ME Perspiciatis;Esportes;1649.09
+559;Moraes Fernandes e Filhos Nisi;Roupas;494.4
+560;Santos Abreu S/A Facilis;Brinquedos;1987.82
+561;Sá - EI Facere;Esportes;950.96
+562;da Cunha - ME Voluptatem;Brinquedos;2258.47
+563;Cunha Nulla;Casa;1677.41
+564;Fogaça Ramos Ltda. Ad;Brinquedos;1881.43
+565;Abreu Placeat;Roupas;1773.19
+566;Pires Peixoto - ME Necessitatibus;Casa;229.99
+567;Fogaça Itaque;Casa;34.11
+568;da Rocha - EI Unde;Casa;2496.25
+569;Leão Ltda. Iusto;Livros;1143.15
+570;Rios Ltda. Architecto;Livros;739.58
+571;Aragão Magni;Eletrônicos;1787.9
+572;Pereira Moura - EI Adipisci;Esportes;847.08
+573;Gomes S.A. Illum;Livros;2142.46
+574;Cardoso Blanditiis;Brinquedos;1422.26
+575;Nascimento e Filhos Perferendis;Casa;290.44
+576;Leão Pinto Ltda. Excepturi;Livros;2022.03
+577;Camargo Rem;Casa;452.35
+578;Gonçalves Leão S/A Ducimus;Casa;546.66
+579;Cavalcante S/A Quod;Casa;1382.12
+580;da Paz - EI Molestiae;Livros;281.66
+581;Aparecida Nam;Casa;1627.49
+582;da Paz Ltda. Ex;Eletrônicos;1902.72
+583;Porto Assumenda;Esportes;1085.14
+584;da Mata Duarte Ltda. Provident;Esportes;257.34
+585;Cirino Maiores;Eletrônicos;1857.11
+586;da Luz Exercitationem;Eletrônicos;1685.15
+587;Cavalcanti Qui;Casa;1182.25
+588;Martins Quisquam;Eletrônicos;36.56
+589;Monteiro Montenegro Ltda. Voluptates;Roupas;2127.81
+590;Barbosa Ltda. Accusantium;Livros;2254.77
+591;Castro - ME Iure;Casa;1871.26
+592;Azevedo Ipsam;Brinquedos;1046.95
+593;da Cruz Impedit;Brinquedos;102.58
+594;Rodrigues Veritatis;Eletrônicos;190.08
+595;Lopes Atque;Casa;1378.15
+596;da Luz Iusto;Roupas;1609.23
+597;Fogaça Ipsam;Esportes;236.94
+598;Marques Doloribus;Casa;751.45
+599;Farias - EI Deserunt;Casa;1842.38
+600;Cassiano - EI Nobis;Eletrônicos;1592.69
+601;Ramos da Costa Ltda. Vel;Casa;1119.62
+602;Mendonça Pacheco Ltda. Earum;Roupas;1512.79
+603;Barbosa Nam;Brinquedos;1301.48
+604;Câmara S.A. Possimus;Eletrônicos;2221.14
+605;Carvalho Reiciendis;Eletrônicos;1737.55
+606;Abreu Moraes Ltda. Velit;Brinquedos;165.06
+607;da Costa Corporis;Esportes;994.21
+608;Garcia Magni;Casa;1809.25
+609;Gonçalves Nesciunt;Casa;2281.79
+610;Mendonça Neque;Livros;498.12
+611;Sá Azevedo Ltda. Odit;Livros;1159.95
+612;Cavalcante Saepe;Casa;301.37
+613;Novaes Novaes S/A Atque;Esportes;1648.82
+614;Fogaça S.A. Voluptatum;Eletrônicos;1427.96
+615;Pires Ratione;Brinquedos;374.06
+616;Moreira Odio;Brinquedos;646.65
+617;Moraes - EI Reiciendis;Livros;135.23
+618;Cunha - ME Quisquam;Brinquedos;1430.53
+619;Andrade Cardoso Ltda. Quibusdam;Esportes;1104.92
+620;Mendonça Dolores;Casa;598.04
+621;Vasconcelos Illo;Brinquedos;1136.25
+622;Araújo Fonseca - ME Soluta;Livros;2386.55
+623;Sampaio Accusantium;Livros;2128.65
+624;Rocha Sint;Roupas;2015.02
+625;Abreu - EI Tempora;Livros;284.6
+626;Sampaio Quasi;Eletrônicos;25.96
+627;Pires Teixeira Ltda. Perspiciatis;Livros;2370.01
+628;Pinto Deserunt;Brinquedos;1254.21
+629;Nascimento - EI Ducimus;Casa;2485.77
+630;Pastor Guerra - ME Fugiat;Brinquedos;1171.48
+631;Pacheco - ME Nulla;Livros;1018.85
+632;Sales Sales Ltda. Reprehenderit;Brinquedos;2159.64
+633;Ramos Reiciendis;Eletrônicos;1113.65
+634;Cavalcanti Veniam;Casa;1556.69
+635;Ferreira Dolorum;Eletrônicos;1952.4
+636;Sá Quas;Brinquedos;2434.28
+637;Fonseca Reprehenderit;Esportes;352.94
+638;Nogueira Sed;Eletrônicos;487.38
+639;Pastor Accusantium;Esportes;2130.37
+640;Cirino Laborum;Livros;976.21
+641;Novais Quis;Eletrônicos;1938.92
+642;Campos Nobis;Eletrônicos;706.48
+643;Farias S/A Deserunt;Brinquedos;1377.68
+644;Siqueira Vitae;Eletrônicos;2076.02
+645;Teixeira S/A Ipsa;Eletrônicos;2061.93
+646;Almeida Quis;Brinquedos;1156.28
+647;Moraes S.A. Itaque;Casa;372.48
+648;Duarte Non;Livros;371.09
+649;Santos Marques Ltda. Quaerat;Casa;836.1
+650;Freitas Accusamus;Brinquedos;2362.98
+651;Cavalcanti S/A Maxime;Roupas;2438.19
+652;da Rosa Viana S.A. Recusandae;Brinquedos;135.75
+653;Sales Hic;Casa;1116.48
+654;Ferreira Omnis;Esportes;400.65
+655;Moreira - ME Consequatur;Esportes;250.55
+656;Pinto Vasconcelos - EI Ad;Esportes;1080.8
+657;Viana Est;Casa;2117.35
+658;Gomes Cum;Livros;1357.87
+659;Caldeira Doloremque;Livros;2308.51
+660;Campos Doloremque;Brinquedos;1209.26
+661;Marques S/A Earum;Roupas;936.13
+662;Souza Eius;Esportes;666.29
+663;Machado Eaque;Esportes;2471.19
+664;Silva Nihil;Esportes;2055.85
+665;Gomes Possimus;Esportes;1811.14
+666;Dias Exercitationem;Brinquedos;480.18
+667;Moraes Provident;Livros;926.26
+668;Costa Sapiente;Casa;1589.74
+669;Borges Commodi;Casa;72.46
+670;Sampaio Vitae;Livros;1899.61
+671;Pacheco Asperiores;Roupas;2410.36
+672;Rocha Silva - ME Voluptate;Esportes;1537.71
+673;Pinto Câmara S.A. Ullam;Esportes;518.86
+674;Nunes Sousa - EI Aliquam;Livros;1712.57
+675;da Rosa Sint;Roupas;40.9
+676;Santos e Filhos Nostrum;Brinquedos;398.39
+677;Casa Grande Sint;Livros;2086.29
+678;da Mata Rezende - ME Inventore;Casa;1696.21
+679;Pastor Eum;Livros;463.73
+680;Sá Macedo - ME Eos;Esportes;792.81
+681;Santos Cumque;Casa;2296.98
+682;Leão S/A Eum;Eletrônicos;633.33
+683;da Luz Ribeiro e Filhos Facere;Casa;735.12
+684;Fogaça Temporibus;Casa;720.29
+685;Cassiano Fonseca Ltda. Dolores;Esportes;2268.28
+686;Montenegro Nisi;Brinquedos;2377.89
+687;da Rocha - EI Reprehenderit;Esportes;535.89
+688;Martins Ab;Esportes;2203.79
+689;Correia Consequatur;Esportes;554.13
+690;Fogaça Dolore;Esportes;1683.64
+691;Cavalcante Ltda. Neque;Roupas;426.0
+692;Albuquerque Repellat;Roupas;1251.95
+693;Moura Sint;Esportes;158.81
+694;Dias Sit;Casa;634.1
+695;Campos Vasconcelos - ME Perspiciatis;Eletrônicos;1571.56
+696;da Cruz S/A Voluptates;Esportes;164.74
+697;Freitas Fugit;Roupas;2184.34
+698;Teixeira Sunt;Roupas;732.85
+699;Lima Ltda. Possimus;Eletrônicos;1018.96
+700;Aragão - ME Possimus;Livros;520.87
+701;Machado Commodi;Casa;1359.84
+702;Novaes S/A Magnam;Casa;49.37
+703;Melo da Paz - ME Quam;Esportes;2294.03
+704;Sousa Ltda. Deleniti;Esportes;820.24
+705;Oliveira - ME Illo;Eletrônicos;2081.21
+706;Pinto Tempore;Livros;1574.19
+707;Rodrigues e Filhos Est;Brinquedos;65.58
+708;das Neves Ipsam;Eletrônicos;2147.07
+709;Nogueira Ad;Brinquedos;2282.61
+710;Moraes Ipsam;Brinquedos;2052.34
+711;Silva Cardoso - EI Ipsa;Casa;1736.02
+712;Mendonça S/A Ipsam;Livros;579.17
+713;Farias Impedit;Roupas;15.15
+714;Dias S.A. Deleniti;Eletrônicos;1558.56
+715;Santos Quis;Esportes;495.43
+716;Araújo S/A Esse;Esportes;160.33
+717;Carvalho Libero;Casa;514.67
+718;Cunha - EI Repellendus;Brinquedos;635.58
+719;Araújo - ME Dolorem;Eletrônicos;784.56
+720;Fonseca Tenetur;Casa;393.05
+721;Barros Incidunt;Livros;2235.41
+722;Martins Perspiciatis;Roupas;1185.24
+723;Sá Exercitationem;Roupas;1955.73
+724;Machado Debitis;Casa;1722.28
+725;Ferreira Moura S.A. Sapiente;Livros;2192.9
+726;Viana Montenegro - ME Earum;Esportes;705.99
+727;Novais - ME Reprehenderit;Esportes;1557.81
+728;Cunha Facere;Casa;946.21
+729;Rocha Nam;Livros;1178.75
+730;Cavalcante Fuga;Livros;2454.8
+731;Cavalcante Enim;Brinquedos;335.95
+732;Porto Andrade e Filhos Ad;Esportes;1304.48
+733;Novaes Ltda. Illo;Esportes;1397.56
+734;Camargo Mendes Ltda. Amet;Livros;423.28
+735;Nogueira Exercitationem;Roupas;1853.02
+736;Viana Azevedo Ltda. Natus;Roupas;1223.86
+737;Cardoso Ipsum;Eletrônicos;1308.86
+738;Fogaça Recusandae;Brinquedos;546.81
+739;Almeida Eaque;Eletrônicos;1323.21
+740;da Luz Officia;Livros;351.07
+741;Carvalho Distinctio;Casa;395.4
+742;Albuquerque Ipsam;Brinquedos;1693.81
+743;Moura S.A. Impedit;Brinquedos;703.6
+744;Pastor Id;Brinquedos;1192.2
+745;Pereira Quis;Esportes;1572.39
+746;Novais Magnam;Casa;1503.32
+747;Rios Similique;Livros;1125.93
+748;Gomes Incidunt;Casa;2286.47
+749;Silveira Cunha S/A Consequatur;Roupas;1811.79
+750;Caldeira - ME Non;Brinquedos;1090.69
+751;Sousa Aragão Ltda. Magni;Roupas;1396.11
+752;Porto Quibusdam;Eletrônicos;2117.08
+753;Fogaça Quisquam;Brinquedos;975.8
+754;Camargo - EI Quae;Brinquedos;1052.97
+755;Macedo Expedita;Casa;1538.08
+756;Abreu Dolorum;Roupas;1464.02
+757;Souza Assumenda;Eletrônicos;2489.05
+758;Nunes Araújo - ME Distinctio;Casa;1567.25
+759;Lopes Camargo - ME Saepe;Roupas;2101.26
+760;Moura Siqueira S.A. Delectus;Casa;109.82
+761;Caldeira Tempore;Esportes;1202.64
+762;Cardoso In;Eletrônicos;1074.92
+763;Araújo Nemo;Casa;529.67
+764;Lima Neque;Eletrônicos;373.95
+765;Ferreira Incidunt;Brinquedos;312.34
+766;da Mota S.A. Corrupti;Livros;455.34
+767;Costa - ME Corrupti;Livros;1544.9
+768;Sales Pastor - EI Vitae;Roupas;1236.13
+769;Leão Accusantium;Casa;446.21
+770;Pacheco Correia Ltda. Distinctio;Roupas;1598.99
+771;Nunes Veniam;Eletrônicos;2488.28
+772;da Rocha Oliveira - ME Accusamus;Eletrônicos;1779.43
+773;Porto Qui;Brinquedos;1682.31
+774;Dias Viana Ltda. Maiores;Eletrônicos;2442.5
+775;Azevedo Carvalho Ltda. Adipisci;Livros;1347.18
+776;Novais Asperiores;Brinquedos;2462.41
+777;Ramos e Filhos Quas;Casa;519.7
+778;Castro - ME Vel;Roupas;1054.73
+779;Barbosa Freitas - ME Quae;Esportes;1412.13
+780;Correia Teixeira - EI Voluptate;Livros;599.18
+781;Rocha Barros - ME Deleniti;Roupas;1094.34
+782;Sá Sint;Esportes;796.18
+783;Moura da Cruz S/A Ratione;Livros;1525.32
+784;da Mata Novais - EI Reprehenderit;Brinquedos;182.15
+785;Moraes Cupiditate;Livros;1288.07
+786;Pastor Carvalho S.A. Nobis;Eletrônicos;1618.39
+787;Martins Souza - EI Perspiciatis;Esportes;2147.54
+788;da Mota S/A Animi;Brinquedos;25.12
+789;da Mata At;Livros;372.15
+790;Câmara e Filhos Iure;Livros;1306.79
+791;Cavalcante Exercitationem;Brinquedos;129.14
+792;Rodrigues Quod;Esportes;681.21
+793;Macedo Accusantium;Casa;260.84
+794;Pereira Facere;Eletrônicos;1602.24
+795;Ribeiro Pariatur;Esportes;2129.82
+796;Ribeiro Ramos e Filhos Reiciendis;Casa;2409.27
+797;Azevedo Nogueira - EI Est;Eletrônicos;200.68
+798;Cavalcante Consequatur;Eletrônicos;511.39
+799;Andrade Dolorum;Casa;1316.01
+800;da Cunha Porto Ltda. Quos;Livros;1921.11
+801;Siqueira Porto - EI Fugit;Roupas;858.56
+802;Ribeiro Adipisci;Brinquedos;319.88
+803;Câmara Cassiano S.A. Iste;Livros;1945.27
+804;Mendonça - EI Et;Esportes;1302.94
+805;Silveira - ME Ut;Brinquedos;26.33
+806;Santos Quia;Casa;120.0
+807;Abreu Accusantium;Roupas;537.32
+808;Camargo Unde;Eletrônicos;1338.51
+809;Peixoto Silveira e Filhos Pariatur;Brinquedos;584.63
+810;Costela S.A. Voluptas;Eletrônicos;2474.06
+811;Guerra Non;Casa;268.88
+812;Gomes Cassiano - EI Expedita;Brinquedos;1104.6
+813;Rocha Repudiandae;Eletrônicos;441.9
+814;Azevedo Silveira Ltda. Cupiditate;Brinquedos;590.38
+815;Silva Consequatur;Roupas;909.69
+816;da Paz Moreira Ltda. Aliquid;Esportes;633.51
+817;Cirino Ea;Esportes;2054.68
+818;Marques Nihil;Livros;2320.64
+819;Freitas Ullam;Esportes;1246.21
+820;Sampaio Dignissimos;Casa;866.39
+821;da Rocha da Paz - EI Quam;Esportes;1908.5
+822;Campos Carvalho - ME Quis;Livros;1549.17
+823;Sales Occaecati;Livros;1845.51
+824;Costa Vasconcelos S.A. Temporibus;Brinquedos;443.35
+825;Moura Cupiditate;Eletrônicos;1429.88
+826;Silveira - ME Soluta;Eletrônicos;936.2
+827;Araújo e Filhos Facere;Roupas;2232.61
+828;Cunha Quos;Esportes;1338.38
+829;Cassiano Velit;Casa;1474.23
+830;Barbosa Praesentium;Brinquedos;1716.48
+831;Ribeiro Rios Ltda. Aut;Brinquedos;1142.67
+832;Ribeiro Cavalcanti - EI Asperiores;Esportes;663.95
+833;Viana - ME Vitae;Esportes;1355.36
+834;Jesus Voluptatem;Casa;1066.46
+835;Cirino e Filhos Nisi;Eletrônicos;627.03
+836;Cunha S.A. A;Roupas;1824.51
+837;Montenegro Facere;Casa;2107.63
+838;Fonseca - ME Officia;Esportes;1991.42
+839;Camargo Nogueira S/A Occaecati;Brinquedos;1748.26
+840;da Rosa Sousa Ltda. Suscipit;Brinquedos;1313.02
+841;Abreu Perferendis;Esportes;2059.13
+842;Leão e Filhos Sit;Esportes;262.9
+843;Siqueira e Filhos Architecto;Eletrônicos;1086.15
+844;Lima In;Eletrônicos;357.49
+845;Monteiro S.A. Soluta;Eletrônicos;1960.16
+846;Machado - EI Labore;Brinquedos;2301.96
+847;Andrade Alves S/A Numquam;Brinquedos;2321.3
+848;Casa Grande Reprehenderit;Eletrônicos;913.84
+849;Correia Sá S.A. Nesciunt;Roupas;417.32
+850;Abreu - EI Doloremque;Casa;1804.54
+851;Cavalcante e Filhos Excepturi;Livros;655.43
+852;da Rosa Illum;Casa;2273.5
+853;Barbosa Ramos - EI Magnam;Livros;1870.72
+854;Cavalcanti Nemo;Eletrônicos;1298.31
+855;Leão Exercitationem;Casa;552.9
+856;Casa Grande Mendonça S.A. Esse;Casa;912.96
+857;Teixeira - ME Modi;Brinquedos;901.61
+858;da Costa Silveira S/A Commodi;Roupas;2012.9
+859;Pacheco S/A Rem;Roupas;1453.86
+860;Ribeiro Alias;Eletrônicos;2256.01
+861;Nunes e Filhos Minima;Livros;1505.29
+862;Marques S/A Enim;Esportes;1922.98
+863;Ferreira Castro S/A Explicabo;Casa;1003.22
+864;Macedo Dolores;Livros;2473.61
+865;Moraes Doloremque;Livros;1882.83
+866;Ferreira Cavalcanti Ltda. Amet;Casa;760.43
+867;Dias Dolorem;Livros;173.82
+868;Sá A;Roupas;1018.68
+869;Andrade Dolorem;Roupas;25.37
+870;Ferreira Vasconcelos S.A. Quo;Esportes;2312.67
+871;da Costa Tempora;Roupas;2342.74
+872;Moura Vel;Esportes;749.58
+873;Rodrigues Quisquam;Roupas;466.41
+874;Alves Duarte Ltda. In;Casa;416.87
+875;Cavalcante Tempore;Eletrônicos;70.74
+876;Novaes - ME Laborum;Roupas;1163.03
+877;da Mota Nesciunt;Esportes;638.69
+878;da Luz Occaecati;Roupas;1448.7
+879;Pacheco Molestias;Roupas;2328.89
+880;Silveira Nihil;Eletrônicos;1650.11
+881;Pinto Illum;Brinquedos;2190.16
+882;das Neves Harum;Esportes;1010.49
+883;Machado - ME Ex;Brinquedos;2260.81
+884;Porto Fogaça S/A Beatae;Brinquedos;716.49
+885;da Cruz Unde;Casa;88.89
+886;Araújo Temporibus;Esportes;1763.11
+887;da Rosa Camargo - ME Perferendis;Eletrônicos;539.42
+888;Pereira Quas;Esportes;1608.75
+889;Porto Necessitatibus;Roupas;2205.8
+890;Almeida Incidunt;Livros;1779.6
+891;Campos Voluptates;Brinquedos;1009.04
+892;Dias Exercitationem;Eletrônicos;1200.46
+893;Carvalho - EI Distinctio;Livros;1806.95
+894;Almeida Duarte - ME Officia;Eletrônicos;822.38
+895;Cirino Totam;Eletrônicos;2164.97
+896;Rios S.A. Rerum;Casa;1091.45
+897;Vasconcelos Azevedo S.A. Illum;Brinquedos;1202.84
+898;Barros Dicta;Roupas;547.24
+899;Cirino S.A. Mollitia;Esportes;1817.57
+900;Freitas Similique;Brinquedos;1366.3
+901;Castro - EI Cum;Eletrônicos;1885.13
+902;Cunha Eligendi;Livros;2261.74
+903;Câmara Casa Grande S.A. Dolores;Eletrônicos;1661.78
+904;Porto S/A Laudantium;Brinquedos;1858.98
+905;da Cunha Ltda. Deleniti;Esportes;1611.2
+906;Cunha - EI Delectus;Livros;187.97
+907;Pacheco Ex;Casa;1891.05
+908;Borges Consequatur;Casa;1123.48
+909;Ribeiro - EI Fuga;Livros;1731.51
+910;Moreira Est;Esportes;2213.08
+911;da Cunha e Filhos Eum;Esportes;1713.56
+912;Caldeira - EI Impedit;Casa;2047.24
+913;Marques Aperiam;Brinquedos;1582.32
+914;Almeida S/A Fugiat;Roupas;2256.7
+915;Ferreira Nemo;Brinquedos;1435.9
+916;Jesus Dolore;Casa;492.7
+917;Moraes Ltda. Facilis;Casa;1827.19
+918;Santos Sapiente;Roupas;1350.08
+919;da Cruz - EI Rem;Esportes;1807.18
+920;Sousa Pacheco S/A Soluta;Roupas;1329.14
+921;Oliveira Suscipit;Livros;2114.1
+922;Novais Sequi;Brinquedos;1993.07
+923;Andrade Delectus;Livros;1602.38
+924;da Cunha S.A. Facere;Esportes;2412.69
+925;da Cunha Consequatur;Livros;667.24
+926;Oliveira Perferendis;Casa;400.88
+927;Borges Deleniti;Eletrônicos;402.48
+928;Borges Atque;Esportes;1653.04
+929;da Paz Inventore;Brinquedos;1651.17
+930;Guerra Illum;Livros;2318.63
+931;Borges Dolore;Eletrônicos;2253.59
+932;Porto da Mota S/A Natus;Esportes;869.15
+933;Siqueira Ltda. Assumenda;Eletrônicos;540.26
+934;Rios Porto Ltda. Similique;Brinquedos;1698.98
+935;Alves Architecto;Brinquedos;1560.97
+936;Pacheco - ME Saepe;Casa;924.09
+937;Cavalcanti Soluta;Casa;1854.08
+938;Oliveira Martins - EI Omnis;Esportes;2328.88
+939;Ramos Facilis;Eletrônicos;1699.03
+940;Cassiano Porro;Casa;75.74
+941;Sá Quibusdam;Esportes;1796.66
+942;Sá - ME Temporibus;Esportes;1524.7
+943;Sousa Mendonça S/A Tenetur;Roupas;1240.59
+944;Abreu Cavalcanti e Filhos In;Livros;312.86
+945;Porto da Mata - EI Harum;Casa;1341.76
+946;Camargo S/A Nulla;Livros;815.82
+947;Siqueira Rem;Casa;927.5
+948;da Costa Pastor - EI Deserunt;Brinquedos;1873.44
+949;Siqueira Novaes - EI Fuga;Livros;124.15
+950;Cunha Cavalcanti Ltda. Perferendis;Roupas;722.52
+951;Freitas Sequi;Livros;53.17
+952;Sousa da Rocha S/A Corrupti;Roupas;2215.34
+953;Nunes Oliveira e Filhos Qui;Livros;1248.94
+954;da Conceição Ltda. Ab;Livros;1916.73
+955;Caldeira Viana Ltda. Inventore;Roupas;1811.47
+956;Santos da Mota S.A. Animi;Esportes;1218.21
+957;Rezende Provident;Eletrônicos;554.58
+958;Azevedo Culpa;Livros;1229.96
+959;Silva Nostrum;Casa;2025.85
+960;Marques Natus;Esportes;705.03
+961;Cirino Campos - EI Soluta;Livros;695.73
+962;Andrade Accusamus;Casa;2075.19
+963;Teixeira Gonçalves S.A. Animi;Casa;1095.4
+964;Casa Grande Animi;Brinquedos;1845.86
+965;Vieira Error;Eletrônicos;211.39
+966;Novais Velit;Roupas;270.85
+967;Cassiano Pinto S/A Consectetur;Brinquedos;649.62
+968;Novaes Commodi;Esportes;472.73
+969;Monteiro Iste;Casa;665.68
+970;Duarte Accusantium;Roupas;2221.8
+971;Mendes Ipsa;Brinquedos;2384.69
+972;Moura - EI Iure;Roupas;523.24
+973;Cavalcanti Possimus;Roupas;1264.95
+974;da Mota Nisi;Livros;1702.03
+975;Farias Sales S/A Libero;Eletrônicos;1638.32
+976;Andrade Castro S.A. Harum;Brinquedos;2136.81
+977;Melo da Mota - EI Rem;Livros;84.62
+978;Cavalcanti Esse;Esportes;2448.92
+979;Novais - ME Aspernatur;Roupas;118.39
+980;Moreira Teixeira - EI Cumque;Livros;746.28
+981;Sousa Cumque;Eletrônicos;922.57
+982;Almeida Assumenda;Casa;491.67
+983;Pires e Filhos Quae;Brinquedos;1302.55
+984;das Neves Leão S.A. Quam;Eletrônicos;2366.47
+985;Moreira Accusantium;Brinquedos;339.72
+986;Guerra Quod;Roupas;711.94
+987;Andrade - ME Praesentium;Livros;850.2
+988;Viana Magnam;Roupas;2089.11
+989;Santos Earum;Livros;453.98
+990;Peixoto Reiciendis;Esportes;113.51
+991;Brito - ME Nostrum;Esportes;1594.71
+992;Lima e Filhos Eius;Brinquedos;412.8
+993;Pereira Aliquid;Roupas;326.79
+994;da Rocha Praesentium;Brinquedos;1259.79
+995;da Cunha Sequi;Livros;1214.66
+996;Aparecida - EI Porro;Casa;2011.4
+997;Moraes Mollitia;Casa;1376.97
+998;Pacheco Ltda. Quae;Esportes;493.34
+999;Nogueira Iusto;Eletrônicos;877.58
