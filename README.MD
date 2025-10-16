@@ -115,6 +115,29 @@ Este script irá gerar todos os dados fictícios (usuários, produtos e vendas) 
 
 ```bash
     python popular_tudo_ecommerce.py
+```
+
+#### Fase 2: Execução dos Benchmarks de Análise
+
+Após a população, execute os scripts de análise para cada banco de dados. Eles rodarão uma série de queries OLAP complexas e imprimirão os resultados e o tempo de execução.
+
+Executar o benchmark do DuckDB:
+```
+    python -m benchmark.OLAP.analise_duckdb
+```
+
+Executar o benchmark do MongoDB:
+```
+    python -m benchmark.OLAP.analise_mongo
+```
+
+📈 Resultados Esperados e Análise
+
+O benchmark confirma a especialização de cada tecnologia. As consultas, embora idênticas em seu objetivo de negócio, demonstram uma diferença de performance gritante:
+
+O DuckDB consistentemente supera o MongoDB em ordens de magnitude em todas as tarefas analíticas (OLAP).
+
+
 
 🤝 Contribuições
 
