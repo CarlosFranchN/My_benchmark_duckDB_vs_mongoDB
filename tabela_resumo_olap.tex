@@ -1,0 +1,18 @@
+\begin{table}
+\caption{Resumo estatístico das métricas OLAP por banco de dados e tipo de consulta}
+\label{tab:resumo_olap}
+\begin{tabular}{llrrrrr}
+\toprule
+Banco & Query & mean_time & median_time & std_time & cv_time & outliers \\
+\midrule
+DuckDB (Local) & Analise_Temporal & 0.0141 & 0.0135 & 0.0022 & 0.1527 & 1 \\
+DuckDB (Local) & Performance_Categorias & 0.0142 & 0.0138 & 0.0014 & 0.1015 & 1 \\
+DuckDB (Local) & Produto_Por_Estado & 0.0282 & 0.0280 & 0.0023 & 0.0802 & 0 \\
+DuckDB (Local) & Ranking_Clientes_RFV & 0.0221 & 0.0217 & 0.0015 & 0.0675 & 2 \\
+MongoDB (Nuvem) & Analise_Temporal & 0.7052 & 0.6872 & 0.0463 & 0.0656 & 1 \\
+MongoDB (Nuvem) & Performance_Categorias & 5.1849 & 5.0556 & 0.4019 & 0.0775 & 0 \\
+MongoDB (Nuvem) & Produto_Por_Estado & 5.1768 & 5.1589 & 0.1207 & 0.0233 & 1 \\
+MongoDB (Nuvem) & Ranking_Clientes_RFV & 5.8329 & 5.7824 & 0.3234 & 0.0554 & 1 \\
+\bottomrule
+\end{tabular}
+\end{table}
