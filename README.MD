@@ -21,7 +21,7 @@ Quais são os trade-offs de desempenho observados ao executar consultas analíti
 ### ⚡ Comparativo de Latência e Speedup
 O gráfico abaixo demonstra a estabilidade da performance ao longo de 10 rodadas. O DuckDB opera na casa dos **milissegundos**, enquanto o MongoDB paga o "pedágio" da latência de rede.
 
-![Estabilidade e Latência](./img/estabilidade_performace_lineplot.png)
+![Estabilidade e Latência](./img/speedUp.png)
 *Figura 1: Comparativo de tempo de execução por rodada (Escala Logarítmica).*
 
 ### 📊 Tabela Resumo Estatístico
@@ -42,8 +42,6 @@ Os resultados refletem as decisões arquiteturais de cada motor:
 2.  **Trade-offs do MongoDB:** O MongoDB prioriza escalabilidade e flexibilidade (OLTP). No cenário analítico, o custo do framework de agregação (`$lookup`) e a latência da nuvem tornam as consultas ordens de magnitude mais lentas.
 3.  **Variabilidade:** O gráfico de Boxplot abaixo mostra que o DuckDB possui uma dispersão mínima, enquanto o MongoDB sofre com a instabilidade inerente de ambientes distribuídos.
 
-![Distribuição de Performance](./img/variabilidde_outliers_boxplot.png)
-*Figura 2: Análise de variabilidade e detecção de pontos fora da curva (Outliers).*
 
 ---
 
